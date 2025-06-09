@@ -1,6 +1,6 @@
 # tinktestrepo
 
-kafka test 5
+kafka test 6
 
 http test 1
 
